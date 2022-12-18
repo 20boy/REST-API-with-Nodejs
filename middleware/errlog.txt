@@ -1,0 +1,71 @@
+20221128	12:23:05	e64c3699-f17f-4a28-8205-0170874c6d26	Error: Not allowed by CORS
+20221202	12:36:54	f89d1224-2df3-4cfc-a60f-62493d875ccc	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:38:08	84c78bda-02cd-4d5a-85f5-7b6a2cd67d57	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:38:09	c46f557d-d5b9-45e2-aae8-9a8f47db2cc7	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:38:09	b24fe8fb-75c9-4f8a-ab3e-1edac383e698	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:38:09	4403d962-907c-4540-881e-cb1a64937ad4	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:38:10	9bdcc113-a24c-439b-98b8-30f8ac2f58d6	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:39:29	e8d96ea0-609d-4f76-8d16-d05e212b549c	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:39:30	644defaa-df10-40c2-8118-cd7b8d70871d	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\.. \views\goodboys.html'
+20221202	12:42:53	ae29366e-1710-42f7-9f4b-6583aaa948fe	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:42:54	d840ab01-7f99-421c-8865-e18ee137d1ab	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:42:54	223c1bff-6986-429e-9902-5369a637608b	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:19	f866cd4c-9821-47e0-9ed1-79c646a0f8bb	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:21	7941c152-6768-4eb3-bb78-f6ae6a9d42ed	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:21	d00029f5-6d8e-4fb6-946e-d13769585ebe	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:21	7c82c057-3cff-43d6-96ed-83f7ba7ee331	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:21	0f67c18c-f12b-48ea-8c46-f4df57cc119c	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:22	7e0efa74-b46b-446e-82e0-32360c71a512	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:22	da7c2354-f592-4337-ab78-dcb328757c73	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:22	380a6aa2-0a0a-4765-b7b6-e51945d98e16	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:25	3aae17bd-e421-4460-a985-bba1a30ff34b	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:25	362a9c1c-327b-488a-8929-73d93a7f4527	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:25	9ae8b06f-c406-4a10-83b3-7c03f5fb37ff	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:26	5386707c-8ac0-436c-938b-44c6b76fc31d	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:26	11e3047c-c959-46ed-9966-d0fc1a1e5ddc	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:46:26	ede17636-0d5c-46fe-85aa-49138533ea3e	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:22	2ad4b821-1eca-41ee-8380-880a2205f387	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:22	49d604c5-9d87-4baa-bd95-28164eb40fc4	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:22	09012d32-72f5-47da-b8fa-7c26e0a46274	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:22	1da4da40-e6de-4cde-b2fa-e2d0710ca141	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:23	947828e2-3fde-4e25-b928-98dc417a7902	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:23	9cbc9a5d-396b-45e0-b211-5de7a0a74fad	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:23	c06e9e61-4e6d-4282-886c-141edd6ec5ec	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:25	a9136d33-3dc8-4207-a197-327698d006e5	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:25	c73d14e1-4ba2-47a9-a30d-cf4f95978d3a	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:25	8c4fe146-559c-411f-9a3a-bf77a368a9b1	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:25	7105822e-06f4-40b1-9b9a-66f3861bcba6	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:26	c78aac95-7082-4f56-bb19-ec8197a632ca	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:26	f5eff444-0b78-49d1-8a3f-ac1c8417ee87	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:26	d382a8c4-976c-4ec0-82a8-b891a9b34797	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:27	38896ae2-1d0f-41e6-8e59-5ef5b29a807d	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:27	14d87f42-ee56-4323-9bf4-d2906ad101be	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:27	74fae32b-05f2-4f7b-ba3b-7a5ba4f79eba	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:27	f2bd020e-bf90-430c-b4f6-b9cfb1eb11ff	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:28	8c08de9f-92ea-40ca-a76a-c04f82fd60f1	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:28	4e791ec2-d094-41d8-a8cc-ca9b041b22d7	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:28	94f13c2c-d7e9-401b-a127-4ea295f58f79	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:28	33134b53-114a-417c-bdaf-a9575ad985fe	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:28	f82f7694-de31-493e-97c6-26a7e45bf2bb	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:30	c62eb95c-718c-4859-bceb-2af53c0c7671	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:30	97639975-d509-46c9-b7b2-4abc44e511b2	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:30	ae9f7397-5676-452b-b6a3-4fb97101a22f	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:31	342ce195-9cb7-4bf2-9f19-c6fc9c749bb2	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:31	eeabd2ef-2cb4-4bb9-8954-5e8a2df4fca7	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:31	aea01f51-2863-476d-806b-6340b57c75e1	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:31	6c42c2f1-d2f8-4ebe-bdee-b3787888c6b9	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:32	cf66b1ef-a50a-4410-84e6-717b86870807	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221202	12:47:32	3cb4358e-a9a6-412d-b11b-09547bf2e8ae	Error: ENOENT: no such file or directory, stat 'C:\Users\KOYEJO\Desktop\node js and react folder\Routes\views\goodboys.html'
+20221205	14:39:32	16849031-b17f-4522-bc98-c57cf5260424	TypeError: data.employees.find is not a function
+20221205	14:40:52	8016c5d2-2950-4f68-badb-f7a95d1ee93d	ReferenceError: b is not defined
+20221205	14:42:46	befaad41-fb95-434b-a697-945f01eef28a	TypeError: Cannot read properties of undefined (reading 'find')
+20221205	15:42:03	78bf26c1-90ab-4eca-b92b-be823ef0f512	SyntaxError: Unexpected token ' in JSON at position 25
+20221206	14:53:31	0bf9ebc2-02ed-4cad-91fb-e00a9bb1efc4	ReferenceError: returnres is not defined
+20221212	11:04:01	83093d09-c729-47b8-b88a-bb283961ff67	SyntaxError: Unexpected end of JSON input
+20221213	16:48:25	ef5f51d1-d8be-4eb0-8662-1d08250aa2a3	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	16:48:34	031d7145-f1f0-412b-9182-8431c6a3fc6a	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	16:58:24	7121a89a-7e18-4acc-9670-0cc472a47b0a	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	17:06:07	5f155eca-da1d-4a8a-8468-a6d0e5fda63a	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	17:08:36	4a0ff013-1306-4f2b-bb75-42d7344ef708	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	17:10:54	4ce7a2be-67d1-4bcd-9fe5-85db540bf21b	TypeError: Cannot read properties of undefined (reading 'username')
+20221213	17:23:03	198a5ace-58ca-4143-88a0-ef1d47a779c1	TypeError: Cannot read properties of undefined (reading 'username')
